@@ -19,7 +19,7 @@ int main()
    cout << "Please enter a word to be reversed." << endl;
    cin >> str;
    cout << "string " << str << ".length() = " << str.length() << endl;
-   cout << str << " reversed is ";
+   cout << str << " reveresed is ";
 
    // for loop starts at str.length()-1
    // grabs each character, then concatenates
